@@ -17,8 +17,8 @@ sub Main(args as dynamic)
     
     options = {}
     options.logLevel = mparticleConstants().LOG_LEVEL.DEBUG
-    options.apiKey = "us1-d794baf11a8f1442930f0836a9c5cc93"
-    options.apiSecret = "Z-vQ8ddJlkytXrxqdC4Omu-Bq2z9B7YpTOSlmw2PK6lffw0ncbFLoGohMUq2a2OO"
+    options.apiKey = "xxxxxx"
+    options.apiSecret = "xxxxxxx"
     'OPTIONAL: For use with our data master feature
     ' options.dataPlanId = "REPLACE WITH DATA PLAN ID"
     options.dataPlanVersion = 1 'REPLACE WITH DATA PLAN VERSION

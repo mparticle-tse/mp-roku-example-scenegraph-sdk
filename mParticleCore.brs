@@ -22,8 +22,8 @@ function mParticleConstants() as object
     'You may pass in any of these options to the mParticle SDK, via mParticleStart
     'or via the Global mParticle options field
     DEFAULT_OPTIONS = {
-        apiKey:                 "us1-d794baf11a8f1442930f0836a9c5cc93",
-        apiSecret:              "Z-vQ8ddJlkytXrxqdC4Omu-Bq2z9B7YpTOSlmw2PK6lffw0ncbFLoGohMUq2a2OO",
+        apiKey:                 "xxxxxx",
+        apiSecret:              "xxxxxx",
         environment:            ENVIRONMENT.AUTO_DETECT,
         logLevel:               LOG_LEVEL.ERROR,
         enablePinning:          true,
