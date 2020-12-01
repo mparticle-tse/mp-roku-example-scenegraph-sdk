@@ -9,8 +9,8 @@
             "request": "launch",
             "name": "BrightScript Debug: Launch",
             "stopOnEntry": false,
-            "host": "xxxxx",
-            "password": "xxxxxx",
+            "host": "xxxx",
+            "password": "xxxx",
             "rootDir": "/Users/mhigbie/Desktop/mparticle-roku-sdk/example-scenegraph-sdk/source",
             "enableDebuggerAutoRecovery": false,
             "stopDebuggerOnAppExit": false
